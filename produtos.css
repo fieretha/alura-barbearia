@@ -54,6 +54,20 @@ nav a:hover{
     
 }
 
+.produtos li:hover{
+    color: #C78C19
+
+}
+.produtos li:active{
+    color: #088C19
+    
+} 
+
+.produtos li:hover h2{
+    font-size: 40px;
+
+} 
+
 .produtos h2 {
     font-size: 30px;
     font-weight: bold;
@@ -69,3 +83,15 @@ nav a:hover{
     margin-top: 10px;
 }
 
+footer{
+    text-align: center;
+    background: url("bg.jpg");
+    padding: 40px 0;
+
+}
+
+.copy {
+    color: #FFFFFF;
+    font-size: 13px
+    margin-top: 20px;
+}
